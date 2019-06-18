@@ -1,2 +1,1 @@
-# Portfolio
-Karl's Data Science with Python repository
+# Karl's Data Science with Python repository
